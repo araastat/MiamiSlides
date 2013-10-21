@@ -8,6 +8,7 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [mathjax, bootstrap]            # {mathjax, quiz, bootstrap}
 mode        : standalone # {selfcontained,standalone, draft}
+license: by-nc-nd
 ---
 ## Disclaimer
 
