@@ -1,22 +1,15 @@
 ---
-title       : Probability Machines
-subtitle    : Risk Estimation in a post-parameter world
+title       : "Probability Machines: Risk estimation in a post-parameter world"
 author : Abhijit Dasgupta and James Malley
-job         : 
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : [mathjax, bootstrap]            # {mathjax, quiz, bootstrap}
-mode        : standalone # {selfcontained,standalone, draft}
-license: by-nc-nd
+output: ioslides_presentation
 ---
-## Disclaimer
+
+# Disclaimer
 
 This presentation reflects the views of the authors and should not be construed to represent the views or policies of the NIH 
 
----
 
-## A world in binary
+# A world in binary
 
 We often simplify our world, avoiding the grey
 
@@ -703,5 +696,3 @@ Ongoing enterprise consulting and product development by Abhijit Dasgupta
 ---.segue .dark
 
 ## Thank you for your attention
-
----
